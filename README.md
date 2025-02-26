@@ -3,3 +3,5 @@
  
  ### how to use this file? 
  throw the ENTIRE "BADAPPLE/BADAPPLE"(i.e BADAPPLE folder and the file inside)into "saves/" (game version 1.18.2)
+
+![image](https://github.com/bauwao/BADAPPLE/blob/main/image.png)
